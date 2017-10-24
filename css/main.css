@@ -1,0 +1,41 @@
+body{
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', serif;
+  margin: 30px;
+}
+
+.rectangle {
+    width: 100px;
+    height: 5px;
+    background: #000;
+    margin-top: -15px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+section {
+    margin-top: 15px;
+    padding: 0;
+    overflow: auto;
+    width: 550px;
+}
+
+figure img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 5px;
+}
+
+span {
+    color: #fff;
+    font-weight: 200px;
+    font-size: 12px;
+    position: absolute;
+    right: 20%;
+    bottom: 20%;
+}
