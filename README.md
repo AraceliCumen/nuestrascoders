@@ -6,4 +6,4 @@
 
 ## Resultados
 
- ![Proyecto Nuestras Coders](assets/imgs/results/results.PNG "Nuestras Coders")
+ ![Proyecto Nuestras Coders](assets/imgs/results/result.png "Nuestras Coders")
